@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Javscript & React 
 
-- 📫 You can reach by email: seifuharmela@gmail.com
+- 📫 You can reach me by email: seifuharmela@gmail.com
 
 <!---
 HarmelaS/HarmelaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
